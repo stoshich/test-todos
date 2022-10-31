@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoList component Match snapshot 1`] = `
+Array [
+  <span
+    class="point__title"
+  >
+    todo 1
+  </span>,
+  <span
+    class="point__title completed"
+  >
+    todo 2
+  </span>,
+  <span
+    class="point__title"
+  >
+    todo 3
+  </span>,
+]
+`;
